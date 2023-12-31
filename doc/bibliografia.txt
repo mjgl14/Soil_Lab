@@ -1,0 +1,3 @@
+https://www.icomputo.com/2019/02/generalizacion-y-especializacion-modelo.html
+
+https://gestionbasesdatos.readthedocs.io/es/latest/Tema2/Teoria.html
